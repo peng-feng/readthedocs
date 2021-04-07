@@ -1,0 +1,2 @@
+# readthedocs
+easyrec_doc
